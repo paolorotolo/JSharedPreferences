@@ -10,17 +10,14 @@ Read Google's resources about how to **bind JavaScript to Android code** [here.]
 #### Save a new string:
 ```
 setItem(key, value)
-
 ```
 #### Get a string:
 ```
 getItem(key)
-
 ```
 #### Delete a string:
 ```
 removeItem(key)
-
 ```
 
 N.B. Both key and value are Strings.
