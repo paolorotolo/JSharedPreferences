@@ -28,3 +28,5 @@ N.B. Both key and value are Strings.
 ## Examples
 - You can integrate a WebView on Android and use JSharedPrefernces instead of LocalStorage to save little data.
 - If you want a working example [Croma](https://github.com/numixproject/croma) is actually using JSharedPreferences.
+
+Developed by [Rotolo Paolo](https://github.com/PaoloRotolo) and [Satyajit Sahoo](https://github.com/satya164)
