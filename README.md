@@ -20,7 +20,7 @@ getItem(key)
 removeItem(key)
 ```
 
-N.B. Both key and value are Strings.
+*N.B. Both key and value are Strings.*
 
 ## Examples
 - You can integrate a WebView on Android and use JSharedPrefernces instead of LocalStorage to save little data.
