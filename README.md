@@ -24,7 +24,7 @@ removeItem(key)
 
 ## Examples
 - You can integrate a WebView on Android and use JSharedPrefernces instead of LocalStorage to save little data.
-- If you want a working example [Croma](https://github.com/numixproject/croma) is actually using JSharedPreferences.
+- If you want a working example [Croma](https://github.com/numixproject/com.numix.croma) is actually using JSharedPreferences.
 
 ## Credits
 Developed by [Paolo Rotolo](https://github.com/PaoloRotolo) and [Satyajit Sahoo](https://github.com/satya164)
