@@ -1,7 +1,7 @@
 JSharedPreferences
 ==================
 
-It can store simple strings on Android SharedPreferences.
+Store simple strings on Android SharedPreferences.
 
 ## How To Use
 Read Google's resources about how to **bind JavaScript to Android code** [here.](http://developer.android.com/guide/webapps/webview.html#BindingJavaScript)
