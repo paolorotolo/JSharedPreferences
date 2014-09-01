@@ -30,5 +30,10 @@ N.B. Both key and value are Strings.
 - If you want a working example [Croma](https://github.com/numixproject/croma) is actually using JSharedPreferences.
 
 
+</br>
+</br>
+</br>
+</br>
+
 
 Developed by [Paolo Rotolo](https://github.com/PaoloRotolo) and [Satyajit Sahoo](https://github.com/satya164)
